@@ -1,0 +1,1 @@
+xgettext --from-code=perl -o index.po lib/DDG/WWW/Index.pm
