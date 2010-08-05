@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: DuckDuckGo\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-08-04 18:39-0400\n"
-"PO-Revision-Date: 2010-08-05 17:23-0000\n"
+"PO-Revision-Date: 2010-08-05 17:50-0000\n"
 "Last-Translator: Luiz Gustavo (gugabsd) <luizgustavo@luizgustavo.pro.br>\n"
 "Language-Team: Portuguese Brazil <luizgustavo@luizgustavo.pro.br>\n"
 "MIME-Version: 1.0\n"
@@ -24,6 +24,7 @@ msgid "top"
 msgstr "topo"
 
 #: lib/DDG/WWW/Index.pm:5705
+#, fuzzy
 msgid "DDG knows"
 msgstr "Conhecimentos DDG"
 
