@@ -1,0 +1,119 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# , 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: DuckDuckGo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 18:39-0400\n"
+"PO-Revision-Date: 2010-08-19 23:33+0100\n"
+"Last-Translator: Frédéric Boisnard <kwembel@gmail.com>\n"
+"Language-Team: French <kwembel@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Français\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: lib/DDG/WWW/Index.pm:4558
+#: lib/DDG/WWW/Index.pm:5668
+#: lib/DDG/WWW/Index.pm:6302
+msgid "top"
+msgstr "haut"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "DDG knows"
+msgstr "DDG sait que"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "can mean different things"
+msgstr "peut avoir différentes significations"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "Click what you meant by"
+msgstr "Cliquez sur ce que vous entendez par"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "to get matching results"
+msgstr "pour obtenir les résultats adéquats"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "web"
+msgstr "web"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "links"
+msgstr "liens"
+
+#: lib/DDG/WWW/Index.pm:5719
+msgid "Some topics grouped into"
+msgstr "Quelques sujets regroupés en"
+
+#: lib/DDG/WWW/Index.pm:5725
+msgid "Some meanings"
+msgstr "Quelques significations"
+
+#: lib/DDG/WWW/Index.pm:5727
+#: lib/DDG/WWW/Index.pm:6557
+msgid "Meanings"
+msgstr "Significations"
+
+#: lib/DDG/WWW/Index.pm:5730
+msgid "grouped into sections"
+msgstr "regroupées en sections"
+
+#: lib/DDG/WWW/Index.pm:5738
+msgid "and"
+msgstr "et"
+
+#: lib/DDG/WWW/Index.pm:6302
+msgid "Web Links"
+msgstr "Liens Web"
+
+#: lib/DDG/WWW/Index.pm:6303
+msgid "No right topic?  Try Web links"
+msgstr "Pas le bon sujet ? Essayez les liens Web"
+
+#: lib/DDG/WWW/Index.pm:6307
+msgid "More Links"
+msgstr "Plus de liens"
+
+#: lib/DDG/WWW/Index.pm:6552
+msgid "Category"
+msgstr "Catégorie"
+
+#: lib/DDG/WWW/Index.pm:7178
+msgid "Settings"
+msgstr "Configuration"
+
+#: lib/DDG/WWW/Index.pm:7179
+msgid "Spread"
+msgstr "Diffusez"
+
+#: lib/DDG/WWW/Index.pm:7183
+msgid "Try search on"
+msgstr "Essayez de rechercher"
+
+#: lib/DDG/WWW/Index.pm:7185
+msgid "Images"
+msgstr "Images"
+
+#: lib/DDG/WWW/Index.pm:7186
+msgid "Maps"
+msgstr "Cartes"
+
+#: lib/DDG/WWW/Index.pm:7187
+msgid "News"
+msgstr "Actualités"
+
+#: lib/DDG/WWW/Index.pm:7197
+msgid "Bang for more"
+msgstr "Utilisez Bang pour plus"
+
+#: lib/DDG/WWW/Index.pm:7198
+msgid "More goodies"
+msgstr "Plus de goodies"
+
